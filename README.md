@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding and videogame arts
 - 📫 How to reach me ... gabi.ruiz.91@gmail.com
 - 😄 Pronouns: Cabe
-- ⚡ Fun fact: I developed a 2D simil game of stumble guys :P
+- ⚡ Fun fact: I developed a 2D simil game of stumble guys :P https://gabiruiz91.itch.io/tharax
 
 <!---
 gabrielruiztrick/gabrielruiztrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
